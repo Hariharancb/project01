@@ -1,3 +1,3 @@
 a=30
 b=8
-print(a*b)
+print(2*(a+b))
